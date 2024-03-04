@@ -1,0 +1,4 @@
+Checks: '*'
+HeaderSearch:
+  IncludePaths:
+    - './src'
